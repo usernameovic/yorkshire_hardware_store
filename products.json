@@ -1,0 +1,254 @@
+{
+
+
+
+  
+    "CPU": {
+
+        "intelcorei9": {
+            "imgurl": "images/component_images/intelcorei9.jpg",
+            "name": "Intel Core i9-11900K",
+            "description": "Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz Unlocked LGA1200 (Intel 500 Series & Select 400 Series Chipset) 125W",
+            "price": 499.99,
+            "data-product-key": "intelcorei9",
+            "data-category": "CPU"
+        },
+
+        "amdryzen9": {
+            "imgurl": "images/component_images/amdryzen9.jpg",
+            "name": "AMD Ryzen 9 5900X",
+            "description": "AMD Ryzen 9 5900X: 12 cores, 24 threads, up to 4.8 GHz, AM4 socket, 105W TDP, no integrated graphics, compatible with AM4 motherboards",
+            "price": 449.99,
+            "data-product-key": "amdryzen9",
+            "data-category": "CPU"
+        },
+
+        "intelcorei5": {
+            "imgurl": "images/component_images/intelcorei5.jpg",
+            "name": "Intel Core i5-11600K",
+            "description": "Intel Core i5-11600K Desktop Processor 6 Cores up to 4.9 GHz Unlocked LGA1200 (Intel 500 Series & Select 400 Series Chipset) 125W",
+            "price": 299.99,
+            "data-product-key": "intelcorei5",
+            "data-category": "CPU"
+        },
+
+        "amdryzen5": {
+            "imgurl": "images/component_images/amdryzen5.jpg",
+            "name": "AMD Ryzen 5 5600X",
+            "description": "AMD Ryzen 5 5600X: 6 cores, 12 threads, up to 4.6 GHz, AM4 socket, 65W TDP, no integrated graphics, compatible with AM4 motherboards",
+            "price": 249.99,
+            "data-product-key": "amdryzen5",
+            "data-category": "CPU"
+        },
+
+        "intelcorei7": {
+            "imgurl": "images/component_images/intelcorei7.jpg",
+            "name": "Intel Core i7-12700KF",
+            "description": "Intel Core i7-12700KF Gaming Desktop Processor 12 (8P+4E) Cores up to 5.0 GHz Unlocked LGA1700 600 Series Chipset 125W",
+            "price": 399.99,
+            "data-product-key": "intelcorei7",
+            "data-category": "CPU"
+        },
+
+        "amdryzen7": {
+            "imgurl": "images/component_images/amdryzen7.jpg",
+            "name": "AMD Ryzen 7 5800X",
+            "description": "AMD Ryzen 7 5800X: 8 cores, 16 threads, up to 4.7 GHz, AM4 socket, 105W TDP, no integrated graphics, compatible with AM4 motherboards",
+            "price": 349.99,
+            "data-product-key": "amdryzen7",
+            "data-category": "CPU"
+        }
+
+    },
+
+
+
+
+
+    "GPU": {
+
+        "nvidiageforcertx3080": {
+            "imgurl": "images/component_images/nvidiageforcertx3080.jpg",
+            "name": "NVIDIA GeForce RTX 3080",
+            "description": "NVIDIA GeForce RTX 3080: Ampere, 8704 CUDA, 10GB GDDR6X, 320-bit, 19Gbps, ray tracing, 1440MHz base, 1710MHz boost, 320W TDP",
+            "price": 799.99,
+            "data-product-key": "nvidiageforcertx3080",
+            "data-category": "GPU"
+        },
+
+        "amdradeonrx6800xt": {
+            "imgurl": "images/component_images/amdradeonrx6800xt.jpg",
+            "name": "AMD Radeon RX 6800 XT",
+            "description": "AMD Radeon RX 6800 XT: RDNA 2, 4608 Stream Processors, 16GB GDDR6, 256-bit, 20Gbps, ray tracing, 1825MHz base, 2250MHz boost, 300W TDP",
+            "price": 699.99,
+            "data-product-key": "amdradeonrx6800xt",
+            "data-category": "GPU"
+        },
+
+        "nvidiageforcertx3600ti": {
+            "imgurl": "images/component_images/nvidiageforcertx3600ti.jpg",
+            "name": "NVIDIA GeForce RTX 3600 Ti",
+            "description": "NVIDIA GeForce RTX 3600 Ti: 5888 CUDA cores, 12GB GDDR6X, 256-bit, 18Gbps, ray tracing, 1650MHz base, 2025MHz boost, 250W TDP",
+            "price": 599.99,
+            "data-product-key": "nvidiageforcertx3600ti",
+            "data-category": "GPU"
+        },
+
+        "amdradeonrx6700xt": {
+            "imgurl": "images/component_images/amdradeonrx6700xt.jpg",
+            "name": "AMD Radeon RX 6700 XT",
+            "description": "AMD Radeon RX 6700 XT: Custom RDNA 3, 3840 Stream Processors, 12GB GDDR7, 256-bit, 22Gbps, ray tracing, 1750MHz base, 2150MHz boost, 275W TDP",
+            "price": 549.99,
+            "data-product-key": "amdradeonrx6700xt",
+            "data-category": "GPU"
+        },
+
+        "nvidiageforcegtx1660": {
+            "imgurl": "images/component_images/nvidiageforcegtx1660.jpg",
+            "name": "NVIDIA GeForce GTX 1660",
+            "description": "NVIDIA GeForce GTX 1660: Custom Turing architecture, 1408 CUDA cores, 6GB GDDR6, 192-bit, 14Gbps, no ray tracing, 1530MHz base, 1785MHz boost, 120W TDP",
+            "price": 299.99,
+            "data-product-key": "nvidiageforcegtx1660",
+            "data-category": "GPU"
+        },
+
+        "asusrogstrixrtx3090": {
+            "imgurl": "/images/component_images/asusrogstrixrtx3090.jpg",
+            "name": "ASUS ROG Strix RTX 3090",
+            "description": "ASUS ROG Strix RTX 3090: Enhanced Ampere architecture, 10496 CUDA cores, 24GB GDDR6X, 384-bit, 21Gbps, advanced ray tracing, 1600MHz base, 1950MHz boost, 400W TDP",
+            "price": 999.99,
+            "data-product-key": "asusrogstrixrtx3090",
+            "data-category": "GPU"
+        }
+
+    },
+
+
+
+
+
+    "Mouse": {
+
+        "logitechgprowireless": {
+            "imgurl": "images/component_images/logitechgprowireless.jpg",
+            "name": "Logitech G Pro Wireless",
+            "description": "Logitech G Pro Wireless Mouse: Precise HERO sensor, 25,600 DPI, lightweight design, customizable buttons, and wireless performance",
+            "price": 79.99,
+            "data-product-key": "logitechgprowireless",
+            "data-category": "Mouse"
+        },
+
+        "razerdeathadderelite": {
+            "imgurl": "images/component_images/razerdeathadderelite.jpg",
+            "name": "Razer DeathAdder Elite",
+            "description": "Razer DeathAdder Elite: High-precision 16,000 DPI sensor, customizable Chroma lighting, ergonomic design, and customizable mechanical switches",
+            "price": 59.99,
+            "data-product-key": "razerdeathadderelite",
+            "data-category": "Mouse"
+        },
+
+        "steelseriesrival600": {
+            "imgurl": "images/component_images/steelseriesrival600.jpg",
+            "name": "SteelSeries Rival 600",
+            "description": "SteelSeries Rival 600: Dual sensor system for pinpoint accuracy, customizable weight, split-trigger mechanical switches, and RGB lighting options",
+            "price": 69.99,
+            "data-product-key": "steelseriesrival600",
+            "data-category": "Mouse"
+        },
+
+        "corsairdarkcore": {
+            "imgurl": "images/component_images/corsairdarkcore.jpg",
+            "name": "Corsair Dark Core",
+            "description": "Corsair Dark Core RGB/SE: Customizable 16,000 DPI optical sensor, swappable side grips, wireless charging, and customizable RGB lighting",
+            "price": 49.99,
+            "data-product-key": "corsairdarkcore",
+            "data-category": "Mouse"
+        },
+
+        "gloriousmodel": {
+            "imgurl": "images/component_images/gloriousmodel.jpg",
+            "name": "Glorious Model",
+            "description": "Glorious Model O Mouse: Lightweight design, customizable RGB lighting, Pixart 3360 sensor, flexible cable, and ultra-low latency",
+            "price": 39.99,
+            "data-product-key": "gloriousmodel",
+            "data-category": "Mouse"
+        },
+
+        "finalmouseultralight": {
+            "imgurl": "images/component_images/finalmouseultralight.jpg",
+            "name": "Finalmouse Ultralight",
+            "description": "Finalmouse Ultralight: Ultra-lightweight design, Pixart PMW3360 sensor, customizable DPI settings, and responsive Omron switches",
+            "price": 89.99,
+            "data-product-key": "finalmouseultralight",
+            "data-category": "Mouse"
+        }
+
+    },
+
+
+
+
+
+    "Keyboard": {
+
+        "razerhuntsmanv2": {
+            "imgurl": "images/component_images/razerhuntsmanv2.jpg",
+            "name": "Razer Huntsman V2",
+            "description": "Razer Huntsman V2 Keyboard: Razer Optical Switches, customizable RGB Chroma lighting, dedicated media controls, and ergonomic wrist rest",
+            "price": 129.99,
+            "data-product-key": "razerhuntsmanv2",
+            "data-category": "Keyboard"
+        },
+
+        "asusrogazoth": {
+            "imgurl": "images/component_images/asusrogazoth.jpg",
+            "name": "ASUS ROG Azoth",
+            "description": "ASUS ROG Azoth Keyboard: Premium mechanical switches, customizable RGB lighting, detachable wrist rest, dedicated macro keys, and programmable macros",
+            "price": 149.99,
+            "data-product-key": "asusrogazoth",
+            "data-category": "Keyboard"
+        },
+
+        "razerblackwidowv3": {
+            "imgurl": "images/component_images/razerblackwidowv3.jpg",
+            "name": "Razer BlackWidow V3",
+            "description": "Razer BlackWidow V3: Razer Green mechanical switches, customizable RGB Chroma lighting, dedicated media controls, wrist rest, and USB passthrough",
+            "price": 119.99,
+            "data-product-key": "razerblackwidowv3",
+            "data-category": "Keyboard"
+        },
+
+        "razerblackwidowv4": {
+            "imgurl": "images/component_images/razerblackwidowv4.jpg",
+            "name": "Razer BlackWidow V4",
+            "description": "Razer BlackWidow V4: Razer HyperSwitches, advanced RGB Chroma lighting, customizable rotary dial, magnetic wrist rest, and USB-C connectivity",
+            "price": 139.99,
+            "data-product-key": "razerblackwidowv4",
+            "data-category": "Keyboard"
+        },
+
+        "logitechg413": {
+            "imgurl": "images/component_images/logitechg413.jpg",
+            "name": "Logitech G413",
+            "description": "Logitech G413 Keyboard: Romer-G mechanical switches, precision backlit keys, brushed aluminum top case, USB passthrough, and dedicated media controls",
+            "price": 89.99,
+            "data-product-key": "logitechg413",
+            "data-category": "Keyboard"
+        },
+
+        "logitechg915": {
+            "imgurl": "images/component_images/logitechg915.jpg",
+            "name": "Logitech G915",
+            "description": "Logitech G915 Keyboard: LIGHTSPEED wireless, low-profile mechanical switches, customizable RGB lighting, dedicated media controls, and Bluetooth connectivity",
+            "price": 179.99,
+            "data-product-key": "logitechg915",
+            "data-category": "Keyboard"
+        }
+
+    }
+
+
+
+
+
+}
